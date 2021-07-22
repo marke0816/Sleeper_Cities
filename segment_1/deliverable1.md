@@ -23,7 +23,7 @@ The data is loaded into pandas dataframes using jupyter notebooks and then uploa
 
 ### Kmeans Clustering
 
-We have chosen to run Kmeans clustering as a first pass with our data.  The images shown below depict the clustering labels with K = 5.
+We have chosen to run Kmeans clustering as a first pass with our data.  The images shown below depict the clustering labels with K = 5.  This Kmeans clustering is performed only on the housing data so far.  We do plan to merge all the datasets we have into one dataframe so that we will use all the features we have at our disposal to make the ML model more robust.
 
 ![](../Resources/screenshots/Kmeans_2D_housing.png)
 ![](../Resources/screenshots/Kmeans_3D_housing.png)

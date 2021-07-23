@@ -1,6 +1,7 @@
 # Sleeper Cities
 
 ## *Group*
+
 Elard Yong, Joseph Worland, Ryan Meredith, Mark Esposito
 
 ## *Objective*
@@ -19,25 +20,29 @@ The data we have collected so far has come from a few different sources.  The we
 
 The data is loaded into pandas dataframes using jupyter notebooks and then uploaded to MongoDB via pymongo.
 
-## *The ML Model*
+## *The Machine Learning Models*
 
-### Kmeans Clustering
+### ***Kmeans Clustering***:
 
-We have chosen to run Kmeans clustering as a first pass with our data.  The images shown below depict the clustering labels with K = 5.  This Kmeans clustering is performed only on the housing data so far.  We do plan to merge all the datasets we have into one dataframe so that we will use all the features we have at our disposal to make the ML model more robust.
+We have chosen to run Kmeans clustering as a first pass.  The images shown below depict the clustering labels with K = 5.  This Kmeans clustering is performed only on the housing data so far.  We plan to merge all collected datasets we have into one dataframe, allowing us to use all the features we have at our disposal to make the ML model more robust.
 
 ![](../Resources/screenshots/Kmeans_2D_housing.png)
 ![](../Resources/screenshots/Kmeans_3D_housing.png)
 
-This K-value was chosen using the elbow curve below.
+The K-value was chosen using the elbow curve below
 
 ![](../Resources/screenshots/elbow_curve_housing.png)
 
-### Affinity Propagation
+### ***Affinity Propagation***:
+
+Sticking with clustering we ran an additional sklearn algorithm. The unique feature of this clustering method is that Affinity Propagation (AP) does not require the user to set a specific cluster number, but instead infer its own number of clusters by sending messages back and forth between data points to determine the association with each data point. So far, this method has yielded a greater number of clusters but has also narrowed our scope of potential cities. 
 
 ![](../Resources/screenshots/Affinity_2D_housing.png)
 ![](../Resources/screenshots/Affinity_3D_housing.png)
 
-### Hierarchical Agglomerative Clustering
+### ***Hierarchical Agglomerative Clustering***:
+
+Lastly, we are attempting the Hierarchical Agglomerative Clustering (HAC) model, which is an alternate clustering method that like AP will turn each data point into an individual cluster, but unlike AP, it will take the two closest clusters and combine them into one cluster, repeating this step until all data is grouped into one final cluster. Using a dendrogram to visually inspect the largest vertical distance we then determine the optimal number of clusters for the HAC model. 
 
 ![](../Resources/screenshots/Agglomerative_2D_housing.png)
 ![](../Resources/screenshots/Agglomerative_3D_housing.png)

@@ -19,9 +19,9 @@ The data we have collected so far has come from a few different sources.  The we
 
 The data is loaded into pandas dataframes using jupyter notebooks and then uploaded to MongoDB via pymongo.
 
-## *The ML Model*
+## *The ML Models*
 
-### Kmeans Clustering
+### **Kmeans Clustering**:
 
 We have chosen to run Kmeans clustering as a first pass with our data.  The images shown below depict the clustering labels with K = 5.  This Kmeans clustering is performed only on the housing data so far.  We do plan to merge all the datasets we have into one dataframe so that we will use all the features we have at our disposal to make the ML model more robust.
 
@@ -32,12 +32,14 @@ This K-value was chosen using the elbow curve below.
 
 ![](../Resources/screenshots/elbow_curve_housing.png)
 
-### Affinity Propagation
+### **Affinity Propagation**:
+
+Sticking with clustering we ran an additonal sklearn algorithm. The unique feature of this clustering method is that Affinity Propagation does not require the user to set a specific cluster number, but instead infer it's own number of clusters by sending messages back and forth between data points to determine the association with each data point. 
 
 ![](../Resources/screenshots/Affinity_2D_housing.png)
 ![](../Resources/screenshots/Affinity_3D_housing.png)
 
-### Hierarchical Agglomerative Clustering
+### **Hierarchical Agglomerative Clustering**:
 
 ![](../Resources/screenshots/Agglomerative_2D_housing.png)
 ![](../Resources/screenshots/Agglomerative_3D_housing.png)

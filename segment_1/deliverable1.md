@@ -13,7 +13,7 @@ Our group communicates mainly through our slack direct messages.  We also share 
 
 ## *Data Sources*
 
-The data we have collected so far has come from a few different sources.  The weather data was downloaded from kaggle, the housing data was provided by a realtor friend of Joseph's, and the income data came from census.gov.
+The data we have collected so far has come from a few different sources.  The weather data was downloaded from kaggle, the housing data was provided by realtor.com which displays all MLS listed properties across the country, and the income and population data came from census.gov.
 
 ## *Data Storage*
 

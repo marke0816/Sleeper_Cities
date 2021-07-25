@@ -1,5 +1,7 @@
 # Sleeper Cities
 
+[Powerpoint synopsis](https://github.com/marke0816/Sleeper_Cities/blob/main/Resources/Sleeper_Cities_Analysis.pptx) available on *Resources* folder. 
+
 ## *Group*
 
 Elard Yong, Joseph Worland, Ryan Meredith, Mark Esposito
@@ -18,7 +20,7 @@ The data we have collected so far has come from a few different sources.  The we
 
 ## *Data Storage*
 
-The data collected from the sources mentioned above get stored as *.csv* files on a local repository. Utilizng the *"mongo_data_uploader" jupyter notebook*, the raw datasets gets uploaded as a collection onto a shared MongoDB cluster via PyMongo. This operation allows users to access the raw data and run the *"sleeper_cities" juyter notebook* from their computer in order to extract, transform, and load it into the *Machine Learning* model.
+The data collected from the sources mentioned above get stored as *.csv* files on a local repository. Utilizng the [*"mongo_data_uploader"*](https://github.com/marke0816/Sleeper_Cities/blob/main/jupyter_notebooks/mongo_data_uploader.ipynb) jupyter notebook*, the raw datasets gets uploaded as a collection onto a shared MongoDB cluster via PyMongo. This operation allows users to access the raw data and run the [*"sleeper_cities"*](https://github.com/marke0816/Sleeper_Cities/blob/main/jupyter_notebooks/Sleeper_cities.ipynb) *juyter notebook* from their computer in order to extract, transform, and load it into the *Machine Learning* model.
 
 ## *The Machine Learning Models*
 

@@ -12,6 +12,9 @@ __pycache__/
 # C extensions
 *.so
 
+#MacUsers
+.DS_Store
+
 # Distribution / packaging
 .Python
 build/

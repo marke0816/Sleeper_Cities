@@ -18,7 +18,7 @@ The data we have collected so far has come from a few different sources.  The we
 
 ## *Data Storage*
 
-The data is loaded into pandas dataframes using jupyter notebooks and then uploaded to MongoDB via pymongo.
+The data collected from the sources mentioned above get stored as *.csv* files on a local repository. Utilizng the *"mongo_data_uploader" jupyter notebook*, the raw datasets gets uploaded as a collection onto a shared MongoDB cluster via PyMongo. This operation allows users to access the raw data and run the *"sleeper_cities" juyter notebook* from their computer in order to extract, transform, and load it into the *Machine Learning* model.
 
 ## *The Machine Learning Models*
 

@@ -1,4 +1,4 @@
-,metro_area/city,Per Capita Income,Pop
+_id,metro_area_city,income,pop
 1,"aberdeen, sd",30802,28257
 2,"aberdeen, wa",23090,16756
 3,"abilene, tx",24529,123420
@@ -141,7 +141,7 @@
 140,"carlsbad-artesia, nm",29188,21083
 141,"carson city, nv",31549,55916
 142,"casper, wy",33618,57931
-143,"ca–on city, co",25232,16725
+143,"canon city, co",25232,16725
 144,"cedar city, ut",22355,34764
 145,"cedar rapids, ia",32290,133562
 146,"cedartown, ga",21063,9997

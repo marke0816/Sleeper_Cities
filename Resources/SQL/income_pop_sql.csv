@@ -1,0 +1,918 @@
+metro_area_city,income,pop
+"aberdeen, sd",30802,28257
+"aberdeen, wa",23090,16756
+"abilene, tx",24529,123420
+"ada, ok",23538,17235
+"adrian, mi",20799,20600
+"akron, oh",24688,197597
+"alamogordo, nm",24999,31980
+"albany, ga",20313,72130
+"albany, or",29664,55338
+"albany-schenectady-troy, ny",26440,70295
+"albemarle, nc",24110,16246
+"albert lea, mn",25844,17656
+"albertville, al",20638,21711
+"albuquerque, nm",30403,560513
+"alexandria, la",27962,46180
+"alexandria, mn",32468,13822
+"alice, tx",21822,18682
+"allentown-bethlehem-easton, pa-nj",25286,74815
+"alma, mi",20237,8890
+"alpena, mi",23446,9956
+"altoona, pa",24410,43364
+"altus, ok",24811,18338
+"amarillo, tx",28274,199371
+"americus, ga",18774,15108
+"ames, ia",26548,66258
+"amsterdam, ny",21978,17766
+"anchorage, ak",41415,288000
+"andrews, tx",28871,14109
+"angola, in",23714,8732
+"ann arbor, mi",42674,119980
+"anniston-oxford-jacksonville, al",25368,18352
+"appleton, wi",31313,74098
+"arcadia, fl",17360,8314
+"ardmore, ok",25982,24698
+"arkadelphia, ar",17052,10726
+"arkansas city-winfield, ks",22125,11806
+"asheville, nc",33176,92870
+"ashland, oh",25941,20275
+"ashtabula, oh",18454,18017
+"astoria, or",31108,10015
+"atchison, ks",24237,16073
+"athens, oh",16321,24536
+"athens, tn",20823,14020
+"athens, tx",21147,12753
+"athens-clarke county, ga",23726,126913
+"atlanta-sandy springs-roswell, ga",53091,237008
+"atlantic city-hammonton, nj",27165,25838
+"auburn, in",29101,13484
+"auburn, ny",24902,26173
+"auburn-opelika, al",27404,48583
+"augusta-richmond county, ga-sc",22709,197888
+"augusta-waterville, me",27501,17627
+"austin, mn",27965,25233
+"austin-round rock, tx",38904,556140
+"bainbridge, ga",19025,12081
+"bakersfield, ca",27060,384145
+"baltimore-columbia-towson, md",43368,249434
+"bangor, me",31412,32262
+"baraboo, wi",29844,12165
+"bardstown, ky",33674,13253
+"barnstable town, ma",42596,44477
+"barre, vt",24945,8528
+"bartlesville, ok",30903,36144
+"bastrop, la",12672,10023
+"batavia, ny",25945,14379
+"batesville, ar",25503,10878
+"baton rouge, la",28491,220236
+"battle creek, mi",24913,51093
+"bay city, mi",22213,32717
+"bay city, tx",24350,17535
+"beatrice, ne",27187,12279
+"beaumont-port arthur, tx",23939,85552
+"beaver dam, wi",28172,16403
+"beckley, wv",25478,15940
+"bedford, in",24763,13212
+"beeville, tx",18287,12793
+"bellefontaine, oh",26016,13249
+"bellingham, wa",30791,92314
+"bemidji, mn",21628,15434
+"bend-redmond, or",32143,66421
+"bennettsville, sc",15702,7730
+"bennington, vt",28900,9074
+"berlin, nh-vt",21057,10122
+"big rapids, mi",15322,10363
+"big spring, tx",21873,28187
+"big stone gap, va",24586,5132
+"billings, mt",34178,109577
+"binghamton, ny",23921,44399
+"birmingham-hoover, al",35005,147585
+"bismarck, nd",37487,73529
+"blackfoot, id",22948,12034
+"blacksburg-christiansburg-radford, va",26542,28318
+"bloomington, il",38188,77330
+"bloomington, in",23816,85755
+"bloomsburg-berwick, pa",20975,11857
+"bluefield, wv-va",22122,9629
+"blytheville, ar",21100,13455
+"bogalusa, la",18830,11504
+"boise city, id",34636,228959
+"boone, ia",29866,12384
+"boone, nc",16871,19667
+"borger, tx",22278,12415
+"boston-cambridge-newton, ma-nh",58838,299980
+"boulder, co",44942,105673
+"bowling green, ky",24083,70543
+"bozeman, mt",32865,49831
+"bradford, pa",24433,8210
+"brainerd, mn",23714,13434
+"branson, mo",24285,11630
+"breckenridge, co",86637,4905
+"bremerton-silverdale, wa",34849,30304
+"brenham, tx",25830,17863
+"brevard, nc",27898,7926
+"bridgeport-stamford-norwalk, ct",43071,144399
+"brookhaven, ms",22538,11947
+"brookings, or",28686,6480
+"brookings, sd",26914,24415
+"brownsville-harlingen, tx",17892,123901
+"brownwood, tx",23657,18455
+"brunswick, ga",21199,16256
+"bucyrus, oh",24125,11764
+"buffalo-cheektowaga-niagara falls, ny",26212,126060
+"burley, id",18658,10582
+"burlington, ia-il",28360,24713
+"burlington, nc",26960,54606
+"burlington-south burlington, vt",36086,31164
+"butte-silver bow, mt",27669,34207
+"cadillac, mi",22555,10497
+"calhoun, ga",24231,17271
+"california-lexington park, md",38114,11741
+"cambridge, md",24074,12260
+"cambridge, oh",19890,10829
+"camden, ar",18753,10749
+"campbellsville, ky",22345,11482
+"canton, il",27125,13506
+"canton-massillon, oh",22344,51515
+"cape coral-fort myers, fl",29980,140799
+"cape girardeau, mo-il",26417,40559
+"carbondale-marion, il",23559,21301
+"carlsbad-artesia, nm",29188,21083
+"carson city, nv",31549,55916
+"casper, wy",33618,57931
+"canon city, co",25232,16725
+"cedar city, ut",22355,34764
+"cedar rapids, ia",32290,133562
+"cedartown, ga",21063,9997
+"celina, oh",25987,10425
+"centralia, il",23435,12210
+"centralia, wa",23380,17745
+"chambersburg-waynesboro, pa",25174,16014
+"champaign-urbana, il",27467,65561
+"charleston, wv",35412,46536
+"charleston-mattoon, il",24658,18866
+"charleston-north charleston, sc",33975,126474
+"charlotte-concord-gastonia, nc-sc",32563,353107
+"charlottesville, va",38328,47266
+"chattanooga, tn-ga",30592,182799
+"cheyenne, wy",35637,64235
+"chicago-naperville-elgin, il-in-wi",40589,984424
+"chico, ca",30080,103301
+"chillicothe, oh",27066,21722
+"cincinnati, oh-ky-in",30531,303940
+"claremont-lebanon, nh-vt",34181,13291
+"clarksburg, wv",23291,15225
+"clarksdale, ms",17788,14894
+"clarksville, tn-ky",25239,158146
+"clearlake, ca",16778,15267
+"cleveland, ms",23377,11073
+"cleveland, tn",25939,45504
+"cleveland-elyria, oh",22833,217383
+"clewiston, fl",24906,8020
+"clinton, ia",26604,25093
+"clovis, nm",22094,38319
+"coeur d'alene, id",28735,52414
+"coffeyville, ks",22713,9275
+"coldwater, mi",20806,12215
+"college station-bryan, tx",26019,102093
+"colorado springs, co",34076,478221
+"columbia, mo",30244,123195
+"columbia, sc",30461,131674
+"columbus, ga-al",26097,195769
+"columbus, in",33342,48046
+"columbus, ms",24162,23573
+"columbus, ne",29134,23468
+"columbus, oh",29322,898553
+"concord, nh",35768,43627
+"connersville, in",20671,12796
+"cookeville, tn",23092,34706
+"coos bay, or",30087,16361
+"cordele, ga",16746,10521
+"corinth, ms",26069,14472
+"cornelia, ga",25708,4375
+"corning, ny",34232,10538
+"corpus christi, tx",28025,326586
+"corsicana, tx",21343,23906
+"cortland, ny",21948,18670
+"corvallis, or",30615,58856
+"coshocton, oh",24340,11051
+"craig, co",28985,9022
+"crawfordsville, in",23603,16118
+"crescent city, ca",12143,6787
+"crestview-fort walton beach-destin, fl",34562,20680
+"crossville, tn",22592,11779
+"cullman, al",26391,16034
+"cullowhee, nc",9728,6228
+"cumberland, md-wv",23343,19284
+"dallas-fort worth-arlington, tx",30831,884004
+"dalton, ga",23795,33665
+"danville, il",21055,30479
+"danville, ky",23235,16769
+"danville, va",22826,40044
+"daphne-fairhope-foley, al",34104,23312
+"davenport-moline-rock island, ia-il",28750,60040
+"dayton, oh",33622,26869
+"dayton, tn",19872,140407
+"decatur, al",17561,7358
+"decatur, il",27998,54445
+"decatur, in",26571,70746
+"defiance, oh",23059,9858
+"del rio, tx",20660,35760
+"deltona-daytona beach-ormond beach, fl",27178,68567
+"deming, nm",17090,13880
+"denver-aurora-lakewood, co",37628,421478
+"deridder, la",24920,10588
+"des moines-west des moines, ia",37393,141068
+"detroit-warren-dearborn, mi",22789,299302
+"dickinson, nd",37091,23133
+"dixon, il",23165,15115
+"dodge city, ks",22075,27104
+"dothan, al",28980,68941
+"douglas, ga",18827,11695
+"dover, de",25130,38166
+"dublin, ga",19481,15881
+"dubois, pa",26473,7364
+"dubuque, ia",29135,57882
+"duluth, mn-wi",31216,85618
+"dumas, tx",24675,13827
+"duncan, ok",25139,22344
+"dunn, nc",21180,9718
+"durango, co",41509,18973
+"durant, ok",21635,18673
+"durham-chapel hill, nc",38407,171522
+"dyersburg, tn",28661,16314
+"eagle pass, tx",18898,29684
+"east stroudsburg, pa",26679,10433
+"easton, md",36362,16671
+"eau claire, wi",29252,68802
+"edwards, co",42942,10266
+"effingham, il",29637,12511
+"el campo, tx",27783,11539
+"el centro, ca",19465,44079
+"el dorado, ar",24370,17651
+"el paso, tx",22734,681728
+"elizabeth city, nc",19691,17751
+"elizabethtown-fort knox, ky",29417,20206
+"elk city, ok",25603,11577
+"elkhart-goshen, in",21695,43287
+"elkins, wv",22338,6990
+"elko, nv",35270,20452
+"ellensburg, wa",21266,21111
+"elmira, ny",18207,27054
+"emporia, ks",24696,24598
+"enid, ok",27071,49688
+"enterprise, al",29585,28376
+"erie, pa",21599,95508
+"escanaba, mi",23440,12160
+"espanola, nm",21349,10044
+"eugene, or",31021,172622
+"eureka-arcata-fortuna, ca",25871,19133
+"evanston, wy",26221,11641
+"evansville, in-ky",24675,117979
+"fairbanks, ak",31060,30917
+"fairfield, ia",27974,10425
+"fairmont, wv",23181,18388
+"fallon, nv",25003,8645
+"fargo, nd-mn",35205,124662
+"faribault-northfield, mn",27554,22319
+"farmington, mo",21656,19113
+"farmington, nm",26960,44372
+"fayetteville, nc",24823,211657
+"fayetteville-springdale-rogers, ar-mo",29046,79128
+"fergus falls, mn",29683,13794
+"fernley, nv",27783,21476
+"findlay, oh",31237,41225
+"fitzgerald, ga",14992,8662
+"flagstaff, az",26954,75038
+"flint, mi",17086,95538
+"florence, sc",30530,38531
+"florence-muscle shoals, al",27343,27686
+"fond du lac, wi",28311,43263
+"forest city, nc",19509,7162
+"forrest city, ar",14742,13820
+"fort collins, co",34482,170243
+"fort dodge, ia",24280,23888
+"fort leonard wood, mo",21277,15061
+"fort madison-keokuk, ia-il-mo",23890,10239
+"fort morgan, co",22169,11463
+"fort polk south, la",19938,9038
+"fort smith, ar-ok",25487,87891
+"fort wayne, in",26970,270402
+"frankfort, in",20975,15884
+"frankfort, ky",29288,27755
+"fredericksburg, tx",33577,11496
+"freeport, il",24576,23775
+"fremont, ne",26106,26383
+"fremont, oh",22203,15917
+"fresno, ca",23564,531576
+"gadsden, al",21312,35000
+"gaffney, sc",17543,12609
+"gainesville, fl",23018,133997
+"gainesville, ga",26411,43232
+"gainesville, tx",20574,16886
+"galesburg, il",21537,30197
+"gallup, nm",23146,21493
+"garden city, ks",24037,26408
+"gardnerville ranchos, nv",30913,11312
+"georgetown, sc",21243,8742
+"gettysburg, pa",20658,7724
+"gillette, wy",32783,32030
+"glasgow, ky",20426,14485
+"glens falls, ny",29734,14262
+"glenwood springs, co",33582,9930
+"gloversville, ny",21140,14747
+"goldsboro, nc",22420,34186
+"grand forks, nd-mn",31718,55839
+"grand island, ne",27203,51267
+"grand junction, co",30452,63597
+"grand rapids, mi",26120,201013
+"grants pass, or",23806,38170
+"grants, nm",22185,8942
+"great bend, ks",25988,14974
+"great falls, mt",30130,58434
+"greeley, co",26222,108649
+"green bay, wi",26618,104578
+"greeneville, tn",23728,14891
+"greenfield town, ma",32474,17258
+"greensboro-high point, nc",27915,204750
+"greensburg, in",27291,11891
+"greenville, ms",19520,29085
+"greenville, nc",25906,93400
+"greenville, oh",24589,12615
+"greenville-anderson-mauldin, sc",32809,41240
+"greenwood, ms",21709,13561
+"greenwood, sc",18885,23403
+"grenada, ms",21084,12219
+"gulfport-biloxi-pascagoula, ms",24692,46538
+"guymon, ok",19455,10996
+"hagerstown-martinsburg, md-wv",24139,28777
+"hailey, id",24046,8689
+"hammond, la",21394,21437
+"hanford-corcoran, ca",18644,39831
+"hannibal, mo",23360,17346
+"harrisburg-carlisle, pa",26642,34234
+"harrison, ar",22896,13080
+"harrisonburg, va",23202,53016
+"hartford-west hartford-east hartford, ct",35623,78875
+"hastings, ne",28156,24692
+"hattiesburg, ms",21673,45863
+"hays, ks",29115,20744
+"heber, ut",27584,17082
+"helena, mt",35976,33124
+"helena-west helena, ar",15550,10299
+"henderson, nc",22170,14911
+"hereford, tx",20930,14622
+"hermiston-pendleton, or",23572,17285
+"hickory-lenoir-morganton, nc",24488,25220
+"hillsdale, mi",21064,8003
+"hilo, hi",29915,43263
+"hilton head island-bluffton-beaufort, sc",42737,26284
+"hinesville, ga",22555,33273
+"hobbs, nm",25437,39141
+"holland, mi",27225,33216
+"homosassa springs, fl",23445,13791
+"hood river, or",37026,7801
+"hot springs, ar",24562,38797
+"houghton, mi",16354,7754
+"houma-thibodaux, la",26919,23560
+"houston-the woodlands-sugar land, tx",46662,850858
+"hudson, ny",25033,6072
+"huntingdon, pa",21146,6937
+"huntington, in",21866,17138
+"huntington-ashland, wv-ky-oh",22824,32628
+"huntsville, al",35634,200574
+"huntsville, tx",15065,42241
+"huron, sd",24253,13380
+"hutchinson, ks",26472,40383
+"hutchinson, mn",35834,13983
+"idaho falls, id",28520,62888
+"indiana, pa",16396,13167
+"indianapolis-carmel-anderson, in",37117,344072
+"indianola, ms",16911,9037
+"ionia, mi",15624,11168
+"iowa city, ia",29284,75130
+"iron mountain, mi-wi",25997,7309
+"ithaca, ny",22600,30837
+"jackson, mi",19986,32440
+"jackson, ms",21906,160628
+"jackson, oh",23201,6230
+"jackson, tn",25595,67191
+"jackson, wy-id",40192,10559
+"jacksonville, fl",30064,911507
+"jacksonville, il",23517,18603
+"jacksonville, nc",23092,72436
+"jacksonville, tx",18800,14815
+"jamestown, nd",28980,15084
+"jamestown-dunkirk-fredonia, ny",23040,17039
+"janesville-beloit, wi",25908,50750
+"jasper, in",33693,15724
+"jefferson city, mo",28073,42708
+"jefferson, ga",30462,12032
+"jesup, ga",19317,9841
+"johnson city, tn",30939,66906
+"johnstown, pa",16684,19195
+"jonesboro, ar",26813,78394
+"joplin, mo",26448,50925
+"junction city, ks",25035,21482
+"juneau, ak",43680,31974
+"kahului-wailuku-lahaina, hi",29352,17784
+"kalamazoo-portage, mi",29776,62822
+"kalispell, mt",26865,24565
+"kankakee, il",20347,26024
+"kansas city, mo-ks",27146,324143
+"kapaa, hi",33995,10699
+"kearney, ne",30014,33867
+"keene, nh",30993,22786
+"kendallville, in",22813,9894
+"kennett, mo",25248,10094
+"kennewick-richland, wa",33915,71286
+"kerrville, tx",29685,23754
+"ketchikan, ak",34590,8284
+"key west, fl",44387,24118
+"kill devil hills, nc",30885,7333
+"killeen-temple, tx",25437,115052
+"kingsport-bristol-bristol, tn-va",26307,32625
+"kingston, ny",27716,22793
+"kingsville, tx",22011,25315
+"kinston, nc",26578,20041
+"kirksville, mo",19351,17602
+"klamath falls, or",24534,21753
+"knoxville, tn",26340,187603
+"kokomo, in",26398,58020
+"la crosse-onalaska, wi-mn",32964,35085
+"la grande, or",24663,13614
+"laconia, nh",33387,16581
+"lafayette, la",32998,126185
+"lafayette-west lafayette, in",23619,61358
+"lagrange, ga",20494,30305
+"lake charles, la",29254,78396
+"lake city, fl",23465,12352
+"lake havasu city-kingman, az",29682,37226
+"lakeland-winter haven, fl",26897,78545
+"lamesa, tx",22062,9147
+"lancaster, pa",22295,59265
+"lansing-east lansing, mi",22171,83177
+"laramie, wy",26255,32711
+"laredo, tx",18771,262491
+"las cruces, nm",24103,103432
+"las vegas, nm",20080,12919
+"las vegas-henderson-paradise, nv",32886,398225
+"laurel, ms",21534,18338
+"laurinburg, nc",18581,15002
+"lawrence, ks",31228,98193
+"lawrenceburg, tn",21654,11035
+"lawton, ok",24482,93025
+"lebanon, mo",20696,14798
+"lebanon, pa",19479,25879
+"levelland, tx",23439,13502
+"lewisburg, pa",28210,5708
+"lewisburg, tn",21177,12368
+"lewiston, id-wa",29325,32788
+"lewiston-auburn, me",28376,29819
+"lewistown, pa",21561,8125
+"lexington, ne",21262,10115
+"lexington-fayette, ky",34442,323152
+"liberal, ks",20606,19174
+"lima, oh",18868,36659
+"lincoln, il",26519,13524
+"lincoln, ne",31301,289102
+"little rock-north little rock-conway, ar",30107,110284
+"lock haven, pa",19221,9083
+"logan, ut-id",19274,51542
+"logan, wv",21936,32019
+"logansport, in",19927,17584
+"london, ky",24604,8068
+"longview, tx",26318,81631
+"longview, wa",27707,38440
+"los alamos, nm",60885,12019
+"los angeles-long beach-anaheim, ca",32016,1597523
+"louisville/jefferson county, ky-in",30943,617638
+"lubbock, tx",27496,258862
+"ludington, mi",28321,8108
+"lufkin, tx",23489,35021
+"lumberton, nc",20108,20484
+"lynchburg, va",23863,82168
+"macomb, il",21063,17413
+"macon, ga",17883,12947
+"madera, ca",17866,65860
+"madison, in",24156,11861
+"madison, wi",38285,259680
+"madisonville, ky",24158,18621
+"magnolia, ar",20020,11467
+"malone, ny",24163,5600
+"malvern, ar",19968,10931
+"manchester-nashua, nh",35897,101014
+"manhattan, ks",26640,54604
+"manitowoc, wi",27826,32579
+"mankato-north mankato, mn",31485,28439
+"mansfield, oh",20452,46599
+"marietta, oh",27820,13356
+"marinette, wi-mi",27021,10539
+"marion, in",18867,27930
+"marion, nc",18178,7891
+"marion, oh",18801,35883
+"marquette, mi",25601,20995
+"marshall, mn",27571,13487
+"marshall, mo",20279,12841
+"marshall, tx",21090,22831
+"marshalltown, ia",24600,26666
+"martin, tn",18576,10484
+"martinsville, va",22836,12554
+"maryville, mo",19215,11599
+"mason city, ia",30429,26931
+"mayfield, ky",18534,9817
+"maysville, ky",26507,8728
+"mcalester, ok",24512,17814
+"mcallen-edinburg-mission, tx",21760,109589
+"mccomb, ms",13607,13013
+"mcminnville, tn",21858,13769
+"mcpherson, ks",31683,13061
+"meadville, pa",23670,12655
+"medford, or",27061,83072
+"memphis, tn-ms-ar",25605,651073
+"menomonie, wi",22934,16551
+"merced, ca",20488,83676
+"meridian, ms",23116,36347
+"merrill, wi",26955,9048
+"mexico, mo",22133,11517
+"miami, ok",19464,13088
+"miami-fort lauderdale-west palm beach, fl",35305,254118
+"michigan city-la porte, in",21909,26292
+"middlesborough, ky",14632,9084
+"midland, mi",37878,41701
+"midland, tx",40252,146038
+"milledgeville, ga",15928,18704
+"milwaukee-waukesha-west allis, wi",28892,240782
+"mineral wells, tx",21171,15213
+"minneapolis-st. paul-bloomington, mn-wi",37062,274215
+"minot, nd",35367,47382
+"missoula, mt",30810,75516
+"mitchell, sd",30367,15679
+"moberly, mo",18379,13615
+"mobile, al",27218,188720
+"modesto, ca",27358,215196
+"monroe, la",21532,47294
+"monroe, mi",25204,19552
+"montgomery, al",28191,198525
+"montrose, co",27858,19782
+"morehead city, nc",33780,9619
+"morgan city, la",23159,10742
+"morgantown, wv",25661,30549
+"morristown, tn",19482,30193
+"moscow, id",24041,25702
+"moses lake, wa",25476,24086
+"moultrie, ga",18771,14211
+"mount airy, nc",28224,10208
+"mount pleasant, mi",19984,24797
+"mount pleasant, tx",19893,15978
+"mount sterling, ky",20911,7231
+"mount vernon, il",26267,14723
+"mount vernon, oh",22881,16769
+"mount vernon-anacortes, wa",34082,26766
+"mountain home, ar",27919,12569
+"mountain home, id",22992,14562
+"muncie, in",20386,67999
+"murray, ky",18749,19327
+"muscatine, ia",26435,23631
+"muskegon, mi",17495,36565
+"muskogee, ok",22107,37113
+"myrtle beach-conway-north myrtle beach, sc-nc",31149,25823
+"nacogdoches, tx",21671,32877
+"napa, ca",40414,78130
+"naples-immokalee-marco island, fl",63718,21396
+"nashville-davidson--murfreesboro--franklin, tn",38063,300272
+"natchez, ms-la",18596,14615
+"natchitoches, la",16392,17485
+"new bern, nc",29459,29994
+"new castle, in",20539,17113
+"new castle, pa",20522,21618
+"new haven-milford, ct",38233,91722
+"new orleans-metairie, la",33941,264312
+"new philadelphia-dover, oh",27536,15066
+"new ulm, mn",31924,13212
+"new york-newark-jersey city, ny-nj-pa",34004,2960301
+"newberry, sc",20091,10199
+"newport, or",27653,10853
+"newport, tn",13951,6884
+"newton, ia",25265,15182
+"niles-benton harbor, mi",17819,10445
+"nogales, az",17769,20103
+"norfolk, ne",28400,24449
+"north platte, ne",28348,23639
+"north port-sarasota-bradenton, fl",32586,62816
+"north vernon, in",26730,6702
+"north wilkesboro, nc",17517,4194
+"norwalk, oh",24414,16867
+"norwich-new london, ct",28029,32813
+"oak harbor, wa",27856,23565
+"ocala, fl",27340,60786
+"ocean city, nj",53652,10971
+"odessa, tx",30470,123334
+"ogden-clearfield, ut",23330,59945
+"ogdensburg-massena, ny",23870,10318
+"oil city, pa",25249,9618
+"okeechobee, fl",20628,5816
+"oklahoma city, ok",30567,655057
+"olean, ny",27396,13437
+"olympia-tumwater, wa",34655,38453
+"omaha-council bluffs, ne-ia",30226,270179
+"oneonta, ny",21945,13907
+"ontario, or-id",20456,10994
+"opelousas, la",17040,15911
+"orangeburg, sc",18570,12654
+"orlando-kissimmee-sanford, fl",25146,140535
+"oshkosh-neenah, wi",29745,46652
+"oskaloosa, ia",27175,11506
+"othello, wa",20462,8386
+"ottawa, ks",24444,12254
+"ottawa-peru, il",30421,13896
+"ottumwa, ia",24916,24368
+"owatonna, mn",32725,25704
+"owensboro, ky",26305,60131
+"owosso, mi",22947,14441
+"oxford, ms",28427,28122
+"oxford, nc",22377,8886
+"oxnard-thousand oaks-ventura, ca",38537,393900
+"ozark, al",24698,14284
+"paducah, ky-il",32097,24865
+"pahrump, nv",24882,36441
+"palatka, fl",16292,10451
+"palestine, tx",20192,17730
+"palm bay-melbourne-titusville, fl",26048,81720
+"pampa, tx",25086,17068
+"panama city, fl",26517,34667
+"paragould, ar",22949,28986
+"paris, tn",19104,10056
+"paris, tx",20638,24847
+"parkersburg-vienna, wv",28264,19715
+"parsons, ks",22273,9477
+"payson, az",31109,15813
+"pecos, tx",22354,10461
+"pensacola-ferry pass-brent, fl",25668,34566
+"peoria, il",31497,110417
+"peru, in",20733,11023
+"philadelphia-camden-wilmington, pa-nj-de-md",24387,575930
+"phoenix-mesa-scottsdale, az",40508,819024
+"picayune, ms",19651,10904
+"pierre, sd",33351,13867
+"pine bluff, ar",18547,41474
+"pinehurst-southern pines, nc",46774,15638
+"pittsburg, ks",20056,20050
+"pittsburgh, pa",34083,300286
+"pittsfield, ma",31953,42142
+"plainview, tx",21129,20143
+"platteville, wi",21127,12087
+"plattsburgh, ny",25110,19515
+"plymouth, in",19036,9982
+"pocatello, id",24366,56637
+"point pleasant, wv-oh",27631,4146
+"ponca city, ok",25838,23660
+"pontiac, il",21858,11253
+"poplar bluff, mo",18417,16937
+"port angeles, wa",27297,20229
+"port clinton, oh",26118,6176
+"port lavaca, tx",26592,11854
+"port st. lucie, fl",27546,201846
+"portales, nm",17807,11610
+"portland-south portland, me",37628,45873
+"portland-vancouver-hillsboro, or-wa",36861,316110
+"portsmouth, oh",22068,20158
+"pottsville, pa",26130,13475
+"prescott, az",36111,44299
+"price, ut",20407,8332
+"prineville, or",21368,10734
+"providence-warwick, ri-ma",33106,130443
+"provo-orem, ut",23196,107223
+"pueblo, co",23098,112361
+"pullman, wa",20201,34506
+"punta gorda, fl",46684,20369
+"quincy, il-mo",29049,39949
+"racine, wi",22808,76760
+"raleigh, nc",38494,474069
+"rapid city, sd",31299,77503
+"raymondville, tx",13007,10880
+"reading, pa",15654,88375
+"red bluff, ca",16963,14539
+"red wing, mn",31881,16320
+"redding, ca",30199,92590
+"reno, nv",34475,255601
+"rexburg, id",14833,29400
+"richmond, in",23827,35342
+"richmond, va",33549,230436
+"richmond-berea, ky",21859,26091
+"rio grande city, tx",16469,14511
+"riverside-san bernardino-ontario, ca",22452,244051
+"riverton, wy",28734,10772
+"roanoke rapids, nc",23600,14320
+"roanoke, va",27006,99143
+"rochelle, il",24988,9052
+"rochester, mn",39518,118935
+"rochester, ny",23246,205695
+"rock springs, wy",33468,22653
+"rockford, il",25517,145609
+"rockingham, nc",20999,8659
+"rocky mount, nc",24480,53922
+"rolla, mo",21700,20431
+"rome, ga",25822,36716
+"roseburg, or",27155,23479
+"roswell, nm",22119,47551
+"russellville, ar",20819,29175
+"ruston, la",18391,21854
+"rutland, vt",30235,15074
+"sacramento--roseville--arden-arcade, ca",34564,252662
+"safford, az",20706,9983
+"saginaw, mi",16960,48115
+"salem, oh",27002,11612
+"salem, or",27454,174365
+"salina, ks",27745,46550
+"salinas, ca",21504,155465
+"salisbury, md-de",21990,32935
+"salt lake city, ut",36779,200567
+"san angelo, tx",28910,101004
+"san antonio-new braunfels, tx",29649,818731
+"san diego-carlsbad, ca",49776,76916
+"san francisco-oakland-hayward, ca",48607,491261
+"san jose-sunnyvale-santa clara, ca",56018,434954
+"san luis obispo-paso robles-arroyo grande, ca",35340,32419
+"sandpoint, id",25724,8931
+"sandusky, oh",23389,24564
+"sanford, nc",22981,30085
+"santa cruz-watsonville, ca",30261,59232
+"santa fe, nm",37081,84683
+"santa maria-santa barbara, ca",33571,99313
+"santa rosa, ca",36935,176753
+"sault ste. marie, mi",24000,13420
+"savannah, ga",25664,144464
+"sayre, pa",29424,5366
+"scottsbluff, ne",25115,14556
+"scottsboro, al",25467,14436
+"scranton--wilkes-barre--hazleton, pa",21379,47404
+"searcy, ar",20772,23660
+"seattle-tacoma-bellevue, wa",53030,373222
+"sebastian-vero beach, fl",36342,21810
+"sebring, fl",24623,10600
+"sedalia, mo",22557,21629
+"selinsgrove, pa",23054,5902
+"selma, al",17773,17231
+"seneca falls, ny",30259,8622
+"seneca, sc",27327,8533
+"sevierville, tn",24350,17117
+"seymour, in",24378,19959
+"shawano, wi",26347,8935
+"shawnee, ok",23138,31436
+"sheboygan, wi",25730,47965
+"shelby, nc",23751,20026
+"shelbyville, tn",19180,22101
+"shelton, wa",19965,10655
+"sheridan, wy",32358,17940
+"sherman-denison, tx",24484,34765
+"show low, az",25014,11442
+"shreveport-bossier city, la",26312,127635
+"sidney, oh",26585,20449
+"sierra vista-douglas, az",24637,29619
+"sikeston, mo",24289,16023
+"silver city, nm",23715,9386
+"sioux city, ia-ne-sd",26982,82651
+"sioux falls, sd",33065,183793
+"snyder, tx",24924,11023
+"somerset, ky",22751,11585
+"somerset, pa",26105,5855
+"sonora, ca",25319,4844
+"south bend-mishawaka, in-mi",23926,76194
+"spartanburg, sc",25570,37399
+"spearfish, sd",32936,11756
+"spencer, ia",28067,10952
+"spirit lake, ia",35055,5155
+"spokane-spokane valley, wa",28651,161570
+"springfield, il",34607,114230
+"springfield, ma",21499,153606
+"springfield, mo",23428,167882
+"springfield, oh",21715,58877
+"st. cloud, mn",27183,68462
+"st. george, ut",28507,89587
+"st. joseph, mo-ks",25314,74875
+"st. louis, mo-il",30542,300576
+"st. marys, ga",29462,18567
+"starkville, ms",22813,25653
+"state college, pa",19084,42160
+"statesboro, ga",14779,32954
+"staunton-waynesboro, va",28599,23781
+"steamboat springs, co",46626,13214
+"stephenville, tx",24810,21247
+"sterling, co",23133,14495
+"sterling, il",26067,14463
+"stevens point, wi",25564,25880
+"stillwater, ok",22487,50299
+"stockton-lodi, ca",26514,190141
+"storm lake, ia",21393,10322
+"sturgis, mi",19550,10861
+"sulphur springs, tx",24828,16234
+"summerville, ga",17374,4320
+"summit park, ut",62187,7775
+"sumter, sc",23883,39642
+"sunbury, pa",21313,9362
+"susanville, ca",13817,15010
+"sweetwater, tx",21571,10469
+"syracuse, ny",23090,142327
+"tahlequah, ok",21660,16819
+"talladega-sylacauga, al",20332,13745
+"tallahassee, fl",27677,194500
+"tampa-st. petersburg-clearwater, fl",34794,260665
+"taos, nm",24818,5929
+"taylorville, il",25257,10360
+"terre haute, in",20989,60622
+"texarkana, tx-ar",26279,32987
+"the dalles, or",27558,15448
+"the villages, fl",32245,79372
+"thomaston, ga",19889,8752
+"thomasville, ga",24313,18518
+"tiffin, oh",22958,17582
+"tifton, ga",19775,16838
+"toccoa, ga",22525,8336
+"toledo, oh",22438,272779
+"topeka, ks",27968,125310
+"torrington, ct",32881,34044
+"traverse city, mi",37814,15738
+"trenton, nj",19281,83203
+"troy, al",22411,18957
+"truckee-grass valley, ca",39346,14776
+"tucson, az",23655,548073
+"tullahoma-manchester, tn",26817,15296
+"tulsa, ok",30970,401190
+"tupelo, ms",27501,38312
+"tuscaloosa, al",26437,101129
+"twin falls, id",24933,50197
+"tyler, tx",29335,106985
+"ukiah, ca",27116,15995
+"union city, tn-ky",30812,8179
+"urban honolulu, hi",37834,345064
+"urbana, oh",22973,11404
+"utica-rome, ny",24067,45949
+"uvalde, tx",18950,16001
+"valdosta, ga",21559,56457
+"vallejo-fairfield, ca",33250,119412
+"valley, al",23404,9141
+"van wert, oh",23644,10676
+"vermillion, sd",25612,10926
+"vernal, ut",22847,10438
+"vernon, tx",22684,10323
+"vicksburg, ms",22392,21653
+"victoria, tx",28532,66916
+"vidalia, ga",29732,10402
+"vincennes, in",21988,16862
+"vineland-bridgeton, nj",21339,41799
+"vineyard haven, ma",36705,2123
+"virginia beach-norfolk-newport news, va-nc",31966,290647
+"visalia-porterville, ca",22891,97102
+"wabash, in",27149,30996
+"waco, tx",22461,139236
+"wahpeton, nd-mn",25535,7734
+"walla walla, wa",25599,32900
+"wapakoneta, oh",27231,9698
+"warner robins, ga",27097,77617
+"warren, pa",27776,9049
+"warrensburg, mo",23678,20418
+"warsaw, in",26076,15150
+"washington court house, oh",24498,14091
+"washington, in",21175,12528
+"washington, nc",24652,9497
+"washington-arlington-alexandria, dc-va-md-wv",63555,357601
+"waterloo-cedar falls, ia",31247,53932
+"watertown, sd",28902,22174
+"watertown-fort atkinson, wi",27768,17950
+"watertown-fort drum, ny",21624,18896
+"wauchula, fl",20543,4803
+"wausau, wi",30593,38561
+"waycross, ga",18264,13480
+"weatherford, ok",24983,12017
+"weirton-steubenville, wv-oh",24489,18009
+"wenatchee, wa",28630,34360
+"west plains, mo",22764,12304
+"wheeling, wv-oh",30615,26430
+"whitewater-elkhorn, wi",22173,12457
+"wichita falls, tx",24330,104683
+"wichita, ks",28806,389938
+"williamsport, pa",24358,28186
+"williston, nd",43515,29033
+"willmar, mn",24682,19869
+"wilmington, nc",31846,123744
+"wilmington, oh",23723,12366
+"wilson, nc",24444,49459
+"winchester, va-wv",30859,28078
+"winnemucca, nv",39332,7754
+"winona, mn",27540,26594
+"winston-salem, nc",28821,247945
+"wisconsin rapids-marshfield, wi",30242,18040
+"woodward, ok",27414,12121
+"wooster, oh",27338,26394
+"worcester, ma-ct",27884,185428
+"worthington, mn",22259,13099
+"yakima, wa",23514,93637
+"yankton, sd",30204,14687
+"york-hanover, pa",23276,29825
+"youngstown-warren-boardman, oh-pa",23098,46532
+"yuba city, ca",26278,67010
+"yuma, az",23613,98285
+"zanesville, oh",19073,25158
+"zapata, tx",18217,5089

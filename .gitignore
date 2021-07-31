@@ -6,14 +6,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-#MacUsers
+#MacbookUsers
 .DS_Store
 
 # C extensions
 *.so
-
-#MacUsers
-.DS_Store
 
 # Distribution / packaging
 .Python

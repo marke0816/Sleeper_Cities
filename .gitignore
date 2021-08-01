@@ -1,4 +1,4 @@
-# ignore MongoDB config.py 
+# ignore MongoDB config.py
 config.py
 
 # Byte-compiled / optimized / DLL files
@@ -7,7 +7,7 @@ __pycache__/
 *$py.class
 
 #MacbookUsers
-.DS_Store
+*.DS_Store
 
 # C extensions
 *.so

@@ -35,7 +35,7 @@ Separately, we have created an *AWS RDS* that allows us to store the database on
 
 Here is a snapshot of the connection established with our Database. 
 
-![][(../Resources/screenshots/postgres-SQLalchemy%20string%20connectio.png)
+![](../Resources/screenshots/postgres-SQLalchemy%20string%20connectio.png)
 
 Once the tables get loaded into the *Postgres Databases*, we proceed to join the tables in order to come up with our final database *(housing_income_pop_data)* that’ll be used for our machine learning model. (screenshot below) 
 

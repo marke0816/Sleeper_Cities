@@ -10,19 +10,16 @@ Elard Yong, Joseph Worland, Ryan Meredith, Mark Esposito
 
 The goal of this repository is to use machine learning to identify cities which are potentially primed for real estate and population growth similar to the likes of which Austin, TX has seen.  Large groups of people working from home while living in high cost-of-living areas are choosing to take their disproportionately large incomes (compared to those incomes in lower cost of living areas) to areas which have similar standards of living with a much lower cost of living.  The southern part of the United States has seen unprecedented growth in the past few years, and our goal is to use machine learning to determine which cities, similar to Austin, TX, are likely to see booms in growth.  We have chosen to use unsupervised machine learning to tackle this task due to the lack of labeled data.  We don’t have a binary metric we are trying to predict, so a clustering algorithm is our best choice to answer our question.
 
-$~$
 
 ## **Data Sources**
 
 The data we have collected comes from a few different sources.  The housing data was provided by [realtor.com](https://www.realtor.com/research/data/) which displays all MLS-- a database established by cooperating real estate brokers to provide information on properties for sale --listed properties across the country, and the income and population data came from [census.gov](https://www.census.gov/quickfacts/fact/table/US/SEX255219).  Our university data comes from [unirank](https://www.4icu.org/us/), a website listing all US universities and their rankings.  All of our data came to us in .csv format.
 
-$~$
 
 ## **Data Exploration**
 
 When exploring the raw data for housing information we came across a massive amount of data. For example, the raw housing data contained over 55,000 rows and 40 columns. We took that down to 917 rows and 11 columns. While looking at the data we realized that the roughly 55,000 rows were monthly data points for over 5 years for 917 cities. We cleaned it up to just the year 2019 for those 917 cities. Next we dropped columns that were deemed not necessary for machine learning purposes. We then created a separate data file with the cities, average income, and population. The income and population data was hard coded from the United States census. Once these dataframes were cleaned, they were joined using **pgAdmin**. We also utilized web scraping to gather data on the number of accredited universities and colleges across the USA. We then used excel to do VLOOKUP of the list of cities schools are in and compared that to our list of cities to get a number of schools in each of our cities.  After the individual files are incorporated into a single dataset we will do another join using pgAdmin to create the final dataset to feed the machine learning models. 
 
-$~$
 
 ## **Data Storage & Pipeline**
 
@@ -48,7 +45,6 @@ Here is a screenshot of the Entity relationship diagram that explains the relati
 
 Finally, the Postgres database get loaded back into our [aws_sleeper_cities](Jupyter Notebook link) Jupyter notebook as *Panda dataframes* in order to be uploaded into our machine learning model. 
 
-$~$
 
 ## **Machine Learning Model**
 
@@ -90,7 +86,6 @@ The below image is a screenshot of the dataframe with the total number of cities
 
  ![](../Resources/screenshots/Kmeans_OutPut_df.PNG)
 
-$~$
 
 ## **Dashboard**
 

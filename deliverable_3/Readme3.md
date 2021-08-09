@@ -67,7 +67,9 @@ Because the input data is unlabeled and a cluster refers to a collection of data
 We have chosen to run K-means clustering as it is the most well known and documented clustering method. This specific ML method generates “centroid’s” that serve as the mean of the expected cluster and then partitions the data points into clusters based on each data point with the closest Euclidean distances to that centroid. K-means allows the ability to determine the optimal number of clusters (K) using the **Elbow** method (see below caption and image). The elbow method lets us visually see when the distortion/inertia start to decrease in a linear fashion (i.e. when the curve starts to flatten). Alternatively having to use “best judgement” when selecting the number of clusters can be considered a limitation as the user/users might select too many or not enough clusters for the modeling leading to over fitting of the data. 
 
 To start with we set the K-value equals 5.
+
 ![](../Resources/screenshots/elbow_curve_housing.png)
+
 
 Below scatter plots allow us to visibly inspect the output data based on classes. A 2D scatter plot gives us a quick glance at how the data is distributed, and  A  3D model will give a clearer picture of how the clusters are distributed within the densely stacked data points.  
 ![](../Resources/screenshots/Kmeans_2D_housing.png)

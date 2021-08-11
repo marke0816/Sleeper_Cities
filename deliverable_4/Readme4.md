@@ -52,7 +52,7 @@ Here is a screenshot of the *Entity Relationship Diagram* that explains the rela
 
 ![](https://github.com/marke0816/Sleeper_Cities/blob/main/Resources/screenshots/data_schema.png) 
 
-Finally, the Postgres database get loaded back into our [aws_sleeper_cities](Jupyter Notebook link) Jupyter notebook as *Panda dataframes* in order to be uploaded into our machine learning model. 
+Finally, the Postgres database get loaded back into our [aws_sleeper_cities_final](https://github.com/marke0816/Sleeper_Cities/blob/1cff42bfa7049c18ad34913e2823e959132c558c/jupyter_notebooks/aws_sleeper_cities_final.ipynb) Jupyter notebook as *Panda dataframes* in order to be uploaded into our machine learning model. 
 
 <br />
 

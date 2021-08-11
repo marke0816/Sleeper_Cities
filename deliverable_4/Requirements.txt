@@ -1,0 +1,22 @@
+Requirements
+
+Python version 3.7.10 (https://www.python.org/downloads/release/python-3710/)
+Setup AWS Command Line Interphase (https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-install.html)
+Boto3 SDK (https://boto3.amazonaws.com/v1/documentation/api/latest/guide/quickstart.html) 
+psycopg2 https://www.psycopg.org/docs/ 
+
+Open “aws_sleeper _cities_final”
+1.0 Run imports 
+2.0 AWS RDS connection
+3.0 Connect to S3 bucket and import data **Important notes** - AWS CLI connection is required to run the Boto3 package. Skip to *Step 5* to retrieve the housing_income_pop_school_data table directly from AWS RDS.
+    3.1. Import Housing data
+    3.2. Import Income & Population data
+    3.3. Import School data
+    3.4  Cleaning Housing Data
+4.0 Export data to Postgres
+5.0 Jump into Postgres and join Tables
+6.0 Load combined cleaned data from Postgres back into Panda Dataframes
+7.0 Prepare data for Machine Learning
+8.0 K-Means Clustering Model
+9.0 Run Validation Models
+10.0 Plot the data
